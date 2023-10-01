@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.growms.evo.\
+    config.TestContainersSpringContextCustomizerFactory,com.growms.evo.config.\
+    SqlTestContainersSpringContextCustomizerFactory
